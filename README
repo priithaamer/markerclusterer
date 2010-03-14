@@ -1,0 +1,5 @@
+This is a stripped, lightweight version of MarkerClusterer by Luke Mehe that originally can be found at
+http://google-maps-utility-library-v3.googlecode.com/svn/trunk/markerclusterer/
+
+This modification of the clusterer uses Google Maps original Markers to display cluster icons and therefore
+is missing a feature of displaying number of markers inside a cluster.
